@@ -1,5 +1,233 @@
-.navbar {
-margin-bottom: 0;
-border-radius: 0;
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@100;300;400;700;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+    background-image: url("../images/Community\ golf.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #006d77;    
 }
 
+.container {
+    margin-top: 0px;
+    /* Adjust the margin as needed */
+}
+
+.heading {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;    
+    margin-top: 0px;
+    color: #fff;
+    text-align: center;
+    background-color: #93c6e0
+}
+
+/* Increase the font size of the header text */
+.heading h1 {
+    font-size: 4.2em;
+    /* Adjust the size as needed */
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #fff
+}
+
+.navbar {
+    margin-bottom: 10px;
+    background-color: #93c6e0
+    /* Adjust the margin as needed */
+}
+
+.navbar-nav li.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav li.nav-item i {
+    font-size: 20px;
+    /* Adjust the icon size */
+    margin-right: 5px;
+    /* Add spacing between icon and text */
+}
+
+.navbar-nav li.nav-item a {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav li.nav-item span {
+    font-size: 18px;
+}
+
+    /* Adjust the text size */
+
+.menuitem a i {
+    padding-top: 10px;
+    display: block;
+    color: #fff;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.home i:hover {
+    color: #ffd166;
+}
+
+.golf i:hover {
+    color: #ffd166;
+}
+
+.fixtures i:hover {
+    color: #ffd166;
+}
+.book i:hover {
+    color: #ffd166;
+}
+
+
+
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;    
+}
+
+.logo {
+    opacity: 0.6;
+}
+
+.main-content h2 {
+    font-family: "lato", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    /* Customize the content header font size */
+}
+
+.main-content h4 {
+    font-family: "lato", sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        color: #fff;
+}
+
+.main-content p {
+    font-family: "lato", sans-serif;
+        font-size: 20px;        
+        color: #fff;
+}
+
+/* Footer styles */
+
+.footer {
+    background-color: #3eb489;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex-grow: 1;
+}
+
+.book i {
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.book i:hover {
+    color: #ffd166;
+}
+
+.find-us i {
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.find-us i:hover {
+    color: #ffd166;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fff;
+    background: #006d77;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color: #ffd166;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "lato", sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
