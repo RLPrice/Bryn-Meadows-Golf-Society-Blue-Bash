@@ -1,41 +1,40 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@100;300;400;700;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+/* Global styles */
 body {
-    background-image: url("../images/Community\ golf.jpg");
+    background-image: url("../images/Community golf.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    background-color: #006d77;    
+    background-color: #006d77;
+    font-family: "Lato", sans-serif;
 }
 
 .container {
-    margin-top: 0px;
-    /* Adjust the margin as needed */
+    margin-top: 0;
 }
 
 .heading {
     font-family: "Montserrat", sans-serif;
-    font-weight: 600;    
-    margin-top: 0px;
+    font-weight: 600;
+    margin-top: 0;
     color: #fff;
     text-align: center;
-    background-color: #93c6e0
+    background-color: #93c6e0;
+    padding: 20px;
 }
 
-/* Increase the font size of the header text */
 .heading h1 {
     font-size: 4.2em;
-    /* Adjust the size as needed */
 }
 
 .navbar .navbar-nav .nav-link {
-    color: #fff
+    color: #fff;
 }
 
 .navbar {
     margin-bottom: 10px;
-    background-color: #93c6e0
-    /* Adjust the margin as needed */
+    background-color: #93c6e0;
 }
 
 .navbar-nav li.nav-item {
@@ -46,9 +45,7 @@ body {
 
 .navbar-nav li.nav-item i {
     font-size: 20px;
-    /* Adjust the icon size */
     margin-right: 10px;
-    /* Add spacing between icon and text */
 }
 
 .navbar-nav li.nav-item a {
@@ -60,10 +57,9 @@ body {
     font-size: 18px;
 }
 
-    /* Adjust the text size */
-
+/* Menu item styles */
 .menuitem a i {
-    padding-top: 10px;
+    padding-top: 0px;
     display: block;
     color: #fff;
     font-size: 26px;
@@ -72,72 +68,48 @@ body {
 .menuitem span {
     display: block;
     width: 100%;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 2px;
 }
 
-.home i:hover {
+/* Icon hover styles */
+.menuitem i:hover {
     color: #ffd166;
 }
 
-.golf i:hover {
+.nav-text {
+    color: #fff;
+    transition: color 0.3s;
+}
+
+.nav-text:hover {
     color: #ffd166;
 }
 
-.fixtures i:hover {
-    color: #ffd166;
-}
-.book i:hover {
-    color: #ffd166;
-}
-
-
-
-
-.list-inline-item:not(:last-child) {
-    margin: 0;
-}
-
+/* Logo styles */
 .logo img {
     max-width: 100%;
-    height: auto;    
-}
-
-.logo {
+    height: auto;
     opacity: 0.8;
 }
 
-.main-content h2 {
-    font-family: "lato", sans-serif;
-    font-size: 30px;
-    font-weight: bold;
-    color: #fff;
-    /* Customize the content header font size */
-}
-
-.main-content h4 {
-    font-family: "lato", sans-serif;
-        font-size: 24px;
-        font-weight: bold;
-        color: #fff;
-}
-
+.main-content h2,
+.main-content h4,
 .main-content p {
-    font-family: "lato", sans-serif;
-        font-size: 20px;        
-        color: #fff;
+    color: #fff;
+    font-family: "Lato", sans-serif;
 }
 
 /* Footer styles */
-
 .footer {
     background-color: #3eb489;
     color: #fff;
     text-align: center;
     padding: 20px 0;
+    margin-top: auto;
 }
 
 .wrapper {
@@ -150,32 +122,16 @@ body {
     flex-grow: 1;
 }
 
-.book i {
-    font-size: 18px;
-    color: #fff;
-    text-align: center;
-    padding-left: 5px;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.book i:hover {
-    color: #ffd166;
-}
-
+.book i,
 .find-us i {
     font-size: 18px;
     color: #fff;
     text-align: center;
     padding-left: 5px;
     transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
+.book i:hover,
 .find-us i:hover {
     color: #ffd166;
 }
@@ -195,9 +151,6 @@ body {
     color: #fff;
     background: #006d77;
     transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
 .social-links li a i:hover {
@@ -213,7 +166,7 @@ body {
 }
 
 .general-sub {
-    font-family: "lato", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 300;
     color: #fff;
 }
@@ -222,18 +175,7 @@ body {
     display: inline-block;
 }
 
-h1,
-h2,
-h3,
-h4 {
-    margin: 0;
-}
-
-.list-inline-item:not(:last-child) {
-    margin: 0;
-}
-
-/*About golf Course*/
+/* Golf Course Page Styles */
 
 .golf-course-page {
     background-image: url(../images/fairway.jpg);
@@ -241,9 +183,10 @@ h4 {
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #006d77;
+    position: relative;
 }
 
-body::before {
+.golf-course-page::before {
     content: "";
     background: rgba(0, 0, 0, 0.5);
     position: fixed;
@@ -254,49 +197,23 @@ body::before {
     z-index: -1;
 }
 
-.container {
-    position: relative;
-    z-index: 1;
-}
-
-.bg-image {
-    background-color: rgba(147, 198, 224, 0.6);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-}
-
 .about-container {
     position: relative;
     padding: 20px;
 }
 
-.about-container h2 {
-    font-family: "lato", sans-serif;
-    color: #fff;
-}
-
-.about-container h4 {
-    font-family: "lato", sans-serif;
-    color: #fff;
-}
-
+.about-container h2,
+.about-container h4,
 .about-container p {
-    font-family: "lato", sans-serif;
+    font-family: "Lato", sans-serif;
     color: #fff;
 }
 
 .content {
-    font-family: "lato", sans-serif;
+    font-family: "Lato", sans-serif;
     z-index: 1;
     color: #fff;
-    text-align: center center;
+    text-align: center;
 }
 
 .background-image {
@@ -306,13 +223,11 @@ body::before {
     background-position: center center;
     position: relative;
     padding: 5px;
-    /* Adjust as needed */
     text-align: center;
-    /* Center the heading */
 }
 
 .background-image h2 {
-    font-family: "lato", sans-serif;
+    font-family: "Lato", sans-serif;
     color: #fff;
 }
 
@@ -320,5 +235,71 @@ body::before {
     text-decoration: none;
 }
 
+/* Fixtures Page Styles */
 
+.fixtures-page {
+    background-image: url(../images/green.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #006d77;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 
+.fixtures-page::before {
+    content: "";
+    background: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color:#fff
+}
+
+.data-table th,
+.data-table td {
+    font-family: "Lato", sans-serif;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ffd166;
+    color: #fff
+}
+
+.data-table th {
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    color: #fff
+}
+
+.col-lg-6,
+.col-md-6,
+.col-sm-12 {
+    margin-top: 20px;    
+}
+
+.fixtures-page h2 {
+    font-family: "Lato", sans-serif;
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.fixtures-page h2.results {
+    font-family: "Lato", sans-serif;
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
