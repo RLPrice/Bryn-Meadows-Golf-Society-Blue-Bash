@@ -123,7 +123,8 @@ body {
 }
 
 .book i,
-.find-us i {
+.find-us i, 
+.contact-us i {
     font-size: 18px;
     color: #fff;
     text-align: center;
@@ -132,7 +133,8 @@ body {
 }
 
 .book i:hover,
-.find-us i:hover {
+.find-us i:hover,
+.contact-us i:hover {
     color: #ffd166;
 }
 
@@ -293,4 +295,56 @@ body {
     color: #fff;
     font-weight: bold;
     margin-top: 20px;
+}
+
+/* Contact Us Page Styles */
+
+.contact-us-page {
+    background-image: url(../images/contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #006d77;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-us-page::before {
+    content: "";
+    background: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.contact-us-page h2 {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.contact-us-page label {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.contact-us-page button[type="submit"] {
+    background-color: #3eb489;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+.contact-us-page button[type="submit"]:hover {
+    background-color: #ffd166;
 }
