@@ -1,6 +1,6 @@
 # **Bryn Meadows Blue Bash Golf Society**
 
-![Society Logo](assets/images/bluebash.jpg)
+![Society Logo](./assets/images/bluebash.webp)
 
 Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusiasts dedicated to enjoying the game and fostering camaraderie. Our society is all about bringing together players of different skill levels who share a passion for golf and a desire to have fun on the course.
 
