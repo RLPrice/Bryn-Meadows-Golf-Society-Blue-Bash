@@ -35,6 +35,9 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
       - [**Visual Consistency**](#visual-consistency)
     - [**BluePrints**](#blueprints)
     - [**Design Distinctions**](#design-distinctions)
+      - [**Photography \& Images**](#photography--images)
+      - [**Iconography**](#iconography-1)
+      - [**Logo \& Branding**](#logo--branding)
 
 ## **Project Scope**
 
@@ -196,12 +199,15 @@ Maintaining visual consistency across the webpage ensures a unified and coherent
 
 ### **BluePrints**
 
-Home Page Computer\
-![Wireframe Com Home](assets/images/wireframes/Com-Home.pdf)\
-Golf Course Page Computer\
-![Wireframe Com Course](assets/images/wireframes/Wireframe-Com-Course.jpg)\
-Fixture Page Computer\
-![Wireframe Com Fix](assets/images/wireframes/Wireframe-Com-Fix.jpg)\
+Home Page Computer
+![Home Page Computer](assets/images/Home-Page-Computer.jpg)
+
+Golf Course Page Computer
+![Golf Course Page Computer](assets/images/Golf-Course-Computer.jpg)
+
+Fixture Page Computer
+![Fixtures Computer](assets/images/Fixtures-Computer.jpg)
+
 Home Page Tablet\
 ![Wireframe Tab Home](assets/images/wireframes/Wireframe-Tab-Home.jpg)\
 Golf Course Page tablet\
@@ -216,3 +222,19 @@ Fixtures Page Smartphone\
 ![Wireframe SP Fix](assets/images/wireframes/Wireframe-SP-Fix.jpg)\
 
 ### **Design Distinctions**
+
+#### **Photography & Images**
+
+Photography and Images play a pivotal role in my web page's design. I incorporated a diverse range of photographs and images, carefully selected to align with my project's narrative and branding. These visuals go beyond aesthetics; they are instrumental in conveying my story to the audience and reinforcing my brand identity. The high quality and resolution of these images not only ensure a visually appealing presentation but also enhance user engagement. By integrating these visuals thoughtfully, i aim to create a captivating and immersive user experience that resonates with our project's core message and values.
+
+![Home Page Background](assets/images/Community-golf.jpg)
+
+#### **Iconography**
+
+Iconography is a fundamental component of my web page's design, serving to enhance user navigation and content comprehension. utilizing a variety of icons, each meticulously chosen for its specific purpose in improving the user experience. These icons act as visual cues, aiding users in quickly identifying and interacting with different features and functions on my page. To maintain visual consistency and align with my project's theme. Through these thoughtful icon choices, I aim to streamline user interactions and make content consumption more accessible and user-friendly.
+
+#### **Logo & Branding**
+
+My project's logo plays a pivotal role in establishing the brand identity and creating a lasting visual impression. The logo's design incorporates carefully selected colors and imagery that resonate with the essence of my project. Placed prominently within the web page, it serves as a cornerstone of our branding efforts, ensuring that users readily recognize and associate it with my project.
+
+
