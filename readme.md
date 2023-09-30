@@ -38,6 +38,7 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
       - [**Photography \& Images**](#photography--images)
       - [**Iconography**](#iconography-1)
       - [**Logo \& Branding**](#logo--branding)
+      - [**Layout \& Design Elements**](#layout--design-elements)
 
 ## **Project Scope**
 
@@ -237,4 +238,8 @@ Iconography is a fundamental component of my web page's design, serving to enhan
 
 My project's logo plays a pivotal role in establishing the brand identity and creating a lasting visual impression. The logo's design incorporates carefully selected colors and imagery that resonate with the essence of my project. Placed prominently within the web page, it serves as a cornerstone of our branding efforts, ensuring that users readily recognize and associate it with my project.
 
+![Logo](assets/images/bluebash.jpg)
 
+#### **Layout & Design Elements**
+
+My web page features a carefully crafted layout that ensures optimal user experience. Content is strategically placed to guide users seamlessly through the page, with headers and footers providing clear navigation and context. I have employed a responsive grid system to adapt the layout to different screen sizes, maintaining visual appeal and readability across devices. Design elements, including dividers and decorative elements, enhance the overall aesthetics and organization of our content. These elements not only improve visual appeal but also contribute to a consistent and cohesive user experience. By thoughtfully integrating layout and design elements, we've created an environment that resonates with users, reinforcing our project's visual identity and making the web page both engaging and accessible.
