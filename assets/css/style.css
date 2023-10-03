@@ -178,7 +178,7 @@ body {
 
 /* Golf Course Page Styles */
 .golf-course-page {
-  background-image: url(../images/fairway.webp);
+  background-image: url("../images/fairway.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -216,16 +216,6 @@ body {
   text-align: center;
 }
 
-.background-image {
-  background-image: url("your-image-url.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  position: relative;
-  padding: 5px;
-  text-align: center;
-}
-
 .background-image h2 {
   font-family: "Lato", sans-serif;
   color: #fff;
@@ -237,7 +227,7 @@ body {
 
 /* Fixtures Page Styles */
 .fixtures-page {
-  background-image: url(../images/green.webp);
+  background-image: url("../images/green.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -299,7 +289,7 @@ body {
 /* Contact Us Page Styles */
 
 .contact-us-page {
-  background-image: url(../images/contact.webp);
+  background-image: url("../images/contact.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
