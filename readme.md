@@ -114,16 +114,16 @@ The layouts of all pages will adapt based on screen size, ensuring that content 
 
 The Colour palette chosen for the "Bryn Meadows Blue Bash Golf Society" webpage is carefully curated to reflect the spirit of the golfing community while maintaining a visually appealing and user-friendly interface. The colours have been selected to evoke a sense of elegance, vibrancy, and connection with the nauural beauty of the golf course.
 
-| **Primary colours           |             |
-|---------------------------|-------------|
-| Deep Teal:                | #006D77     |
-| Grass Green:              | #3EB489     |
-| Cloud White:              | #FFFFFF     |
+| \*\*Primary colours |         |
+| ------------------- | ------- |
+| Deep Teal:          | #006D77 |
+| Grass Green:        | #3EB489 |
+| Cloud White:        | #FFFFFF |
 
-| **Accent Colours**          |             |
-|---------------------------|-------------|
-| Golden Sun:               | #FFD166     |
-| sky Blue:                 | #93C6EO     |
+| **Accent Colours** |         |
+| ------------------ | ------- |
+| Golden Sun:        | #FFD166 |
+| sky Blue:          | #93C6EO |
 
 #### **Colour Psychology**
 
@@ -161,7 +161,7 @@ The selection of fonts for the "Bryn Meadows Blue Bash Golf Society" webpage pla
 
 - **Typeface:** Script
 - **Description:** Great Vibes adds a touch of elegance and uniqueness to special elements such as quotes, featured events, or headings requiring a more decorative apperance. It injects personality while maintaining a sense of sophistication.
-  
+
 #### **Font Pairing Strategy**
 
 The pairing of Montserrat and Lato ensures a harmonious blend of modernity and readability. Montserrat's geometric elegance contrasts well with Lato's rounded shapes, creating a visually appealing hierarchy that guides users through the content seamlessly.

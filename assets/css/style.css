@@ -2,348 +2,348 @@
 
 /* Global styles */
 body {
-    background-image: url("../images/Community golf.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-color: #006d77;
-    font-family: "Lato", sans-serif;    
+  background-image: url("../images/Community golf.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #006d77;
+  font-family: "Lato", sans-serif;
 }
 .container {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .heading {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 600;
-    margin-top: 0;
-    color: #fff;
-    text-align: center;
-    background-color: #93c6e0;
-    padding: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin-top: 0;
+  color: #fff;
+  text-align: center;
+  background-color: #93c6e0;
+  padding: 20px;
 }
 
 .heading h1 {
-    font-size: 4.2em;
+  font-size: 4.2em;
 }
 
 .navbar .navbar-nav .nav-link {
-    color: #fff;
+  color: #fff;
 }
 
 .navbar {
-    margin-bottom: 10px;
-    background-color: #93c6e0;
+  margin-bottom: 10px;
+  background-color: #93c6e0;
 }
 
 .navbar-nav li.nav-item {
-    display: flex;
-    align-items: center;
-    font-size: 20px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
 }
 
 .navbar-nav li.nav-item i {
-    font-size: 20px;
-    margin-right: 10px;
+  font-size: 20px;
+  margin-right: 10px;
 }
 
 .navbar-nav li.nav-item a {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .navbar-nav li.nav-item span {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 /* Menu item styles */
 .menuitem a i {
-    padding-top: 0px;
-    display: block;
-    color: #fff;
-    font-size: 26px;
+  padding-top: 0px;
+  display: block;
+  color: #fff;
+  font-size: 26px;
 }
 
 .menuitem span {
-    display: block;
-    width: 100%;
-    padding: 0px;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: 300;
-    letter-spacing: 2px;
+  display: block;
+  width: 100%;
+  padding: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
 }
 
 /* Icon hover styles */
 .menuitem i:hover {
-    color: #ffd166;
+  color: #ffd166;
 }
 
 .nav-text {
-    color: #fff;
-    transition: color 0.3s;
+  color: #fff;
+  transition: color 0.3s;
 }
 
 .nav-text:hover {
-    color: #ffd166;
+  color: #ffd166;
 }
 
 /* Logo styles */
 .logo img {
-    max-width: 100%;
-    height: auto;
-    opacity: 0.8;
+  max-width: 100%;
+  height: auto;
+  opacity: 0.8;
 }
 
 .main-content h2,
 .main-content h4,
 .main-content p {
-    color: #fff;
-    font-family: "Lato", sans-serif;
+  color: #fff;
+  font-family: "Lato", sans-serif;
 }
 
 /* Footer styles */
 .footer {
-    background-color: #3eb489;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-    margin-top: auto;
+  background-color: #3eb489;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: auto;
 }
 
 .wrapper {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .main-content {
-    flex-grow: 1;
+  flex-grow: 1;
 }
 
 .book i,
-.find-us i, 
+.find-us i,
 .contact-us i {
-    font-size: 18px;
-    color: #fff;
-    text-align: center;
-    padding-left: 5px;
-    transition: all 0.35s ease-in-out;
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+  padding-left: 5px;
+  transition: all 0.35s ease-in-out;
 }
 
 .book i:hover,
 .find-us i:hover,
 .contact-us i:hover {
-    color: #ffd166;
+  color: #ffd166;
 }
 
 .social-links {
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fff;
-    background: #006d77;
-    transition: all 0.35s ease-in-out;
+  width: 32px;
+  height: 32px;
+  padding: 12px 0;
+  border-radius: 50%;
+  font-size: 13px;
+  line-height: 7px;
+  text-align: center;
+  color: #fff;
+  background: #006d77;
+  transition: all 0.35s ease-in-out;
 }
 
 .social-links li a i:hover {
-    background-color: #ffd166;
+  background-color: #ffd166;
 }
 
 #footer-details {
-    padding: 20px;
+  padding: 20px;
 }
 
 .uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .general-sub {
-    font-family: "Lato", sans-serif;
-    font-weight: 300;
-    color: #fff;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  color: #fff;
 }
 
 .inline-block {
-    display: inline-block;
+  display: inline-block;
 }
 
 /* Golf Course Page Styles */
 .golf-course-page {
-    background-image: url(../images/fairway.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-color: #006d77;
-    position: relative;
+  background-image: url(../images/fairway.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #006d77;
+  position: relative;
 }
 
 .golf-course-page::before {
-    content: "";
-    background: rgba(0, 0, 0, 0.5);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
 .about-container {
-    position: relative;
-    padding: 20px;
+  position: relative;
+  padding: 20px;
 }
 
 .about-container h2,
 .about-container h4,
 .about-container p {
-    font-family: "Lato", sans-serif;
-    color: #fff;
+  font-family: "Lato", sans-serif;
+  color: #fff;
 }
 
 .content {
-    font-family: "Lato", sans-serif;
-    z-index: 1;
-    color: #fff;
-    text-align: center;
+  font-family: "Lato", sans-serif;
+  z-index: 1;
+  color: #fff;
+  text-align: center;
 }
 
 .background-image {
-    background-image: url('your-image-url.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    position: relative;
-    padding: 5px;
-    text-align: center;
+  background-image: url("your-image-url.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  padding: 5px;
+  text-align: center;
 }
 
 .background-image h2 {
-    font-family: "Lato", sans-serif;
-    color: #fff;
+  font-family: "Lato", sans-serif;
+  color: #fff;
 }
 
 .background-image a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /* Fixtures Page Styles */
 .fixtures-page {
-    background-image: url(../images/green.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-color: #006d77;
-    position: relative;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  background-image: url(../images/green.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #006d77;
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .fixtures-page::before {
-    content: "";
-    background: rgba(0, 0, 0, 0.5);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
 .data-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-    color: #fff;
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  color: #fff;
 }
 
 .data-table th,
 .data-table td {
-    font-family: "Lato", sans-serif;
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ffd166;
-    color: #fff;
+  font-family: "Lato", sans-serif;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ffd166;
+  color: #fff;
 }
 
 .data-table th {
-    font-size: 18px;
-    font-family: "Lato", sans-serif;
-    color: #fff;
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  color: #fff;
 }
 
 .col-lg-6,
 .col-md-6,
 .col-sm-12 {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .fixtures-page h2,
 .fixtures-page h2.results {
-    font-family: "Lato", sans-serif;
-    font-size: 30px;
-    color: #fff;
-    font-weight: bold;
-    margin-top: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 30px;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 20px;
 }
 
 /* Contact Us Page Styles */
 
 .contact-us-page {
-    background-image: url(../images/contact.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-color: #006d77;
-    position: relative;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  background-image: url(../images/contact.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #006d77;
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .contact-us-page::before {
-    content: "";
-    background: rgba(0, 0, 0, 0.5);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
 .contact-us-page h2 {
-    font-size: 24px;
-    font-family: 'Lato', sans-serif;
-    color: #fff;
-    margin-bottom: 10px;
+  font-size: 24px;
+  font-family: "Lato", sans-serif;
+  color: #fff;
+  margin-bottom: 10px;
 }
 
 .contact-us-page label {
-    font-size: 16px;
-    font-family: 'Lato', sans-serif;
-    color: #fff;
-    margin-bottom: 5px;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  color: #fff;
+  margin-bottom: 5px;
 }
 
 .contact-us-page button[type="submit"] {
-    background-color: #3eb489;
-    color: #fff;
-    padding: 10px 20px;
-    font-size: 18px;
-    border: none;
-    cursor: pointer;
+  background-color: #3eb489;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
 }
 
 .contact-us-page button[type="submit"]:hover {
-    background-color: #ffd166;
+  background-color: #ffd166;
 }
