@@ -48,6 +48,7 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
       - [**User Story Testing**](#user-story-testing)
     - [**Automated Testing**](#automated-testing)
     - [**W3C CSS Validator**](#w3c-css-validator)
+    - [**Issues and Resolutions**](#issues-and-resolutions)
 
 ## **Project Scope**
 
@@ -367,4 +368,12 @@ style.css was put through a validator and no issues were found.
 
 ![style.css Test result](./assets/readme-images/style.css-result.jpg)
 
+### **Issues and Resolutions**
 
+- The validator picked up an issue with the hamburger drop down menu. The aria-controls section of the button tag wasn't targeting anything. I had not added the correct tag to the id of the dropdown. Once added this issue was resolved.
+-  The validator picked up some / typos in the code. These were removed.
+-  Once testing was vompleted an issue developed on the browser page were the heading and nav bar disappeared. I managed to work out by disabling the custom CSS that it had disappeared behinf the header banner colour. This was resolved by adding a z-index of 100 to the .header and .nav css instructions.
+
+![Heading Issue](./assets/readme-images/heading-issue.png)
+
+![Heading Issue Fix](./assets/readme-images/heading-issue-fix.jpg)
