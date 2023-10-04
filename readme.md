@@ -345,3 +345,11 @@ The webpage design will require a dedicated section that displays the tee time s
 index.html was run through validator. Three errors were identified.
 
 ![Index.html Test Results](./assets/readme-images/index.html-Validator-Results.jpg)
+
+Once errors had been corrected no issues were found.
+
+golf-course.html was run through validator. 17 errors were identified.
+
+![golf-couse.html Test Results](./assets/readme-images/golf-course.html-results.jpg)
+
+
