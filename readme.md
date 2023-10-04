@@ -245,6 +245,8 @@ Photography and Images play a pivotal role in my web page's design. I incorporat
 
 Iconography is a fundamental component of my web page's design, serving to enhance user navigation and content comprehension. utilizing a variety of icons, each meticulously chosen for its specific purpose in improving the user experience. These icons act as visual cues, aiding users in quickly identifying and interacting with different features and functions on my page. To maintain visual consistency and align with my project's theme. Through these thoughtful icon choices, I aim to streamline user interactions and make content consumption more accessible and user-friendly.
 
+![Icons](./assets/readme-images/icons.png)
+
 #### **Logo & Branding**
 
 My project's logo plays a pivotal role in establishing the brand identity and creating a lasting visual impression. The logo's design incorporates carefully selected colors and imagery that resonate with the essence of my project. Placed prominently within the web page, it serves as a cornerstone of our branding efforts, ensuring that users readily recognize and associate it with my project.
