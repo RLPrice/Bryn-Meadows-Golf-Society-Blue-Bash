@@ -49,9 +49,13 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
     - [**Automated Testing**](#automated-testing)
     - [**Issues and Resolutions**](#issues-and-resolutions)
     - [**Deployment**](#deployment)
-    - [\*\* How to run the Project Locally\*\*](#-how-to-run-the-project-locally)
+    - [**How to run the Project Locally**](#how-to-run-the-project-locally)
       - [**Clone the Repository**](#clone-the-repository)
       - [**Download the Repository Manually**](#download-the-repository-manually)
+    - [**Credits**](#credits)
+    - [**Media**](#media)
+    - [**Code**](#code)
+    - [**Acknowledgements**](#acknowledgements)
 
 ## **Project Scope**
 
@@ -434,7 +438,7 @@ This project has been successfully deployed on GitHub Pages. To deploy your proj
 9. Refresh the Page: Refresh the page, and you will find a green sub-section at the top of the page with a link to your deployed site.
 10. visit the Deployed Site: Click in the link to access and view your live deployed website.
 
-### ** How to run the Project Locally**
+### **How to run the Project Locally**
 
 #### **Clone the Repository**
 
@@ -456,3 +460,25 @@ This project has been successfully deployed on GitHub Pages. To deploy your proj
 6. Open your chosen IDE (e.g., VSCode, Atom, Komodo).
 7. Navigate to the directory where you extracted the repository.
 8. You now have the entire project available offline on your machine.
+
+### **Credits**
+
+### **Media**
+
+- Background Images from www.pexels.com
+- Icons from www.fontawesome.com
+- logo was created by myself
+- Font styles from www.fonts/google.com
+
+### **Code**
+
+- Grid layout was from www.getcootstrap.com
+- Code was created by myself with research from www.youtube.com, www.codeinstitute.net and other internet based resources.
+
+### **Acknowledgements**
+
+I want to express my gratitude to my mentor, Ronan McClelland, for his unwavering guidance, moral support, inspiration, invaluable advice, and wonderful sense of humor.
+
+
+- 
+- 
