@@ -346,10 +346,18 @@ index.html was run through validator. Three errors were identified.
 
 ![Index.html Test Results](./assets/readme-images/index.html-Validator-Results.jpg)
 
-Once errors had been corrected no issues were found.
+Once errors had been corrected no further issues were found.
 
 golf-course.html was run through validator. 17 errors were identified.
 
 ![golf-couse.html Test Results](./assets/readme-images/golf-course.html-results.jpg)
+
+Once errors had been corrected no further issues were found.
+
+fixtures.html was run through validator. Two errors were identified.
+
+![fixtures.html Test Results](./assets/readme-images/fixtures.html-results.png)
+
+Once errors had been corrected no further issues were identified.
 
 
