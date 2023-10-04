@@ -39,6 +39,13 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
       - [**Iconography**](#iconography-1)
       - [**Logo \& Branding**](#logo--branding)
       - [**Layout \& Design Elements**](#layout--design-elements)
+      - [**Responsive**](#responsive)
+      - [**Limitations**](#limitations)
+      - [**Current Functionalities**](#current-functionalities)
+      - [**Pending Features**](#pending-features)
+    - [**Technologies**](#technologies)
+    - [**Testing**](#testing)
+      - [**User Story Testing**](#user-story-testing)
 
 ## **Project Scope**
 
@@ -256,3 +263,48 @@ My project's logo plays a pivotal role in establishing the brand identity and cr
 #### **Layout & Design Elements**
 
 My web page features a carefully crafted layout that ensures optimal user experience. Content is strategically placed to guide users seamlessly through the page, with headers and footers providing clear navigation and context. I have employed a responsive grid system to adapt the layout to different screen sizes, maintaining visual appeal and readability across devices. Design elements, including dividers and decorative elements, enhance the overall aesthetics and organization of our content. These elements not only improve visual appeal but also contribute to a consistent and cohesive user experience. By thoughtfully integrating layout and design elements, we've created an environment that resonates with users, reinforcing our project's visual identity and making the web page both engaging and accessible.
+
+#### **Responsive**
+
+The Bryn Meadows Blue Bash Golf Society's website has been meticulously designed to offer a responsive and user-friendly experience on all devices. Whether you're accessing the site from a desktop computer, laptop, tablet, or smartphone, the web page seamlessly adapts to various screen sizes and resolutions. This responsiveness ensures that users can enjoy the same high-quality content, stunning visuals, and intuitive navigation, regardless of the device they choose. From exploring the golf course details to booking tee times or accessing fixtures, the website's layout and design elements dynamically adjust to provide optimal readability and usability, making it accessible to a wide range of audiences and enhancing the overall user experience.
+
+#### **Limitations**
+
+The contact form on the Bryn Meadows Blue Bash Golf Society website primarily relies on Bootstrap (utilizing JavaScript and JQuery) for its functionality. However, it's important to note that due to the absence of additional JavaScript functionality beyond Bootstrap, the contact form does not have the capability to store submitted data or send email requests. While Bootstrap facilitates the display and interaction of the contact form through a modal interface, it lacks the backend processes required for data storage and email transmission. Therefore, users should be aware that any information entered into the contact form may not be stored or result in email notifications, as these advanced functionalities typically necessitate server-side scripting or backend development, which is not implemented in this specific form.
+
+#### **Current Functionalities**
+
+- **Contact Form** :- The functionality of the contact form on the Bryn Meadows Blue Bash Golf Society website allows visitors to interact with the website and send inquiries or messages to the website administrators or customer support team.
+- **Booking Button** :- The link button to the booking form on the Bryn Meadows Blue Bash Golf Society website serves as a direct pathway for users to access and book tee times or other golf-related services.
+- **GolfBreaks, Golf Lessons & Golf Facilities Buttons** :- The link buttons to "Golf Breaks," "Golf Lessons," and "Golf Facilities" on the Bryn Meadows Blue Bash Golf Society website provide specific functionalities tailored to different aspects of the golfing experience.
+- **Find Us Button** :- The "Find Us" link on the Bryn Meadows Blue Bash Golf Society website provides functionality related to locating the physical address and geographical position of the golf course.
+- **Socials Buttons** :- The social links on the Bryn Meadows Blue Bash Golf Society website provide functionality related to connecting with the golf society and its community through various social media platforms.
+
+#### **Pending Features** 
+
+- **Members Login** :- The intention of implementing a members login function is to enhance the user experience and provide a personalized and secure environment for registered members of the Bryn Meadows Blue Bash Golf Society website.
+- **Scorecard & Handicapp Tracker** :- Integrate a digital scorecard system that allows golfers to record their scores, track their handicaps, and view historical performance data.
+- **Golf Coursr Maps and Hole Overviews** :- Provide detailed maps and hole-by-hole overviews of the golf course, helping golfers plan their rounds and understand course layout.
+
+### **Technologies**
+
+- **HTML** :- HTML serves as the primary language utilised to construct the websites fundamental structure.
+- **CSS** :- This projectemploys custom-written CSS to design and style the website.
+- **Bootstrap v5.2.3** :- Throughout this project, the Bootstrap framework is utilised for both layout structuring and styling purposes.
+- **Fontawesome** :- Font Awesom icons are employed for the social media links found within the website's navigation and footer sections.
+- **Google Fonts** :- The project utilises Google Fonts to import the Montserrat and Lato fonts across the website, with Sans Serrif as the default.
+- **GitHub** :- GitHub serves as the hosting platform for storing the source cose of the website, while Git Pages is employed for deploying the live site.
+- **Git** :- Git serves as the version control software for commiting and pushing code to the GitHub repository, which stores the source code.
+- **Google Chrome Developer Tools** :- The built-in developer tools of Google Chrome are utilised for inspecting page elements, aiding in debugging site layout issues, and experimenting with various CSS styles.
+- **balsamiq wireframes** :- This tool was employed to generate wireframes during the "The Skeleton Phase" of UX design.
+- **WebP Converter** :- This was employed to convert JPG files to WebP files for better loading times.
+- **Google Chromes Lighthouse** :- Google Chrome's Lighthouse was used to evaluate accessibility.
+- **W3C HTML Markup Validator** :- This was employed for HTML code validation.
+- **W3C Jigsaw CSS Validator** :- This was utilised to valifate CSS Code.
+
+### **Testing**
+
+#### **User Story Testing**
+
+
+
