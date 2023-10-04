@@ -47,6 +47,7 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
     - [**Testing**](#testing)
       - [**User Story Testing**](#user-story-testing)
     - [**Automated Testing**](#automated-testing)
+    - [**W3C CSS Validator**](#w3c-css-validator)
 
 ## **Project Scope**
 
@@ -359,5 +360,11 @@ fixtures.html was run through validator. Two errors were identified.
 ![fixtures.html Test Results](./assets/readme-images/fixtures.html-results.png)
 
 Once errors had been corrected no further issues were identified.
+
+### **W3C CSS Validator**
+
+style.css was put through a validator and no issues were found.
+
+![style.css Test result](./assets/readme-images/style.css-result.jpg)
 
 
