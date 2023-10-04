@@ -46,6 +46,7 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
     - [**Technologies**](#technologies)
     - [**Testing**](#testing)
       - [**User Story Testing**](#user-story-testing)
+    - [**Automated Testing**](#automated-testing)
 
 ## **Project Scope**
 
@@ -71,7 +72,7 @@ John, a sociable member, logs in to the website to connect with other golf socie
 
 John wants to participate in forum discussions about recent events and matches, find out if any members are looking for playing partners, share his own golfing experience and insights and access member profiles to get to know fellow golfers.
 
-> The web page would need to implement a secure user authentication system to allow mwmbwrs to log into their accout. This can involve username/password authentication or even integration with social media accounts. The webpage would need a dedicated forum section where mebers can engage in discussions about recent events and matches. Each discussion thread should be categorized for easy navigation. The webpage will ensure the user interface is intuitive and easy to navigate, with clear labels, buttons, and menus so members can easily access the desired features. Also, ensure the entire structure is mobile-responsive to allow members to access the community and its features seamlessly from their mobile device.
+> The web page would need to implement a secure user authentication system to allow members to log into their account. This can involve username/password authentication or even integration with social media accounts. The webpage would need a dedicated forum section where mebers can engage in discussions about recent events and matches. Each discussion thread should be categorized for easy navigation. The webpage will ensure the user interface is intuitive and easy to navigate, with clear labels, buttons, and menus so members can easily access the desired features. Also, ensure the entire structure is mobile-responsive to allow members to access the community and its features seamlessly from their mobile device.
 
 #### **Frequent Visitor Goals**
 
@@ -79,7 +80,7 @@ Sarah frequently visits the golf course and uses the website to book tee times f
 
 Sarah wants to be able to view the tee time schedule for the next week, choose a suitable tee time slot and reserve the tee time and recieve a confirmation.
 
-> The webpage design will require a dedicated section that displays the tee time schedule for the upcoming week minimum. The schedule should provide available tee time slots and the available number of slot foe each tee time. There will need to be a reservation page so the chosen tee time can be reserved with a confirmation email via email.
+> The webpage design will require a dedicated section that displays the tee time schedule for the upcoming week minimum. The schedule should provide available tee time slots and the available number of slot for each tee time. There will need to be a reservation page so the chosen tee time can be reserved with a confirmation email.
 
 ## **Structure**
 
@@ -306,5 +307,41 @@ The contact form on the Bryn Meadows Blue Bash Golf Society website primarily re
 
 #### **User Story Testing**
 
+**Expectation**
+For first time users the webpage needs to have a straight forward comprehension of the primary purpose of the webpage and a chance to gain deeper insights in to the society. The webpage needs to have seamless navigation across the webpages, allowing users to conveniently explore its content and locate the information they seek. Finally, the webpage needs to be accessible from a mobile device with ease and clarity, ensuring that the content is presented in a user-friendly manner.
 
+  **Realisation**
+  
+- The website's primary purpose, which is to introduce and provide information about the Bryn Meadows Blue Bash Golf Society, is prominently communicated on the homepage through clear headings and introductory text.
+- The use of descriptive headings and visuals (such as images of golf courses) helps users quickly understand the nature of the society.
+- Key sections like "Welcome to Bryn Meadows Blue Bash Golf Society!" provide deeper insights into the society's mission and offerings.
+- The website features a well-structured navigation menu with clear labels, making it easy for users to find their way around.
+- Navigation items like "Golf Course," "Fixtures," and "Contact Us" provide logical access to specific content areas.
+- The use of hover effects on navigation items enhances user interactivity.
+- The website is designed to be responsive, ensuring that it adapts to different screen sizes, including mobile devices.
+- Mobile versions of hero images are provided to improve performance on smaller screens.
+- The Bootstrap framework used in the website's design supports mobile responsiveness.
 
+**Expectation**
+ The web page would need to implement a secure user authentication system to allow members to log into their account. This can involve username/password authentication or even integration with social media accounts. The webpage would need a dedicated forum section where mebers can engage in discussions about recent events and matches. Each discussion thread should be categorized for easy navigation. The webpage will ensure the user interface is intuitive and easy to navigate, with clear labels, buttons, and menus so members can easily access the desired features. Also, ensure the entire structure is mobile-responsive to allow members to access the community and its features seamlessly from their mobile device.
+  
+**Realisation**
+
+- Currently, the website does not have the implementation of a user authentication system. To meet this expectation, the website would need to develop a secure user authentication system that allows members to log into their accounts.
+- The website does not have a dedicated forum section for members to engage in discussions as there is no user authrentication system. Implementing a forum section would require creating discussion threads, categorizing them, and providing a platform for members to interact and discuss recent events and matches. However, the website does have social links taking users to media platforms such as Facebook, Twitter and Instagram which allows users to use the forum sections for these platfroms.
+
+**Expectation**
+The webpage design will require a dedicated section that displays the tee time schedule for the upcoming week minimum. The schedule should provide available tee time slots and the available number of slot for each tee time. There will need to be a reservation page so the chosen tee time can be reserved with a confirmation email.
+
+**Realisation**
+
+- the expectation is to have a dedicated section displaying the tee time schedule for the upcoming week. There is apage displaying the fixtures for the upcoming month with a link to take tyou to the golf course teetime booking page. The website does not currently display a tee time schedule on the pages available for review but provides a link to an external page that does.
+- The expectation includes a reservation page where users can reserve their chosen tee time slots and receive a confirmation email. This is not present on the website page but a link to an external booking website provides these functionlaities.
+
+### **Automated Testing**
+
+1. **[W3 Markup Validation](https://validator.w3.org/) - HTML Validation**
+
+index.html was run through validator. Three errors were identified.
+
+![Index.html Test Results](./assets/readme-images/index.html-Validator-Results.jpg)
