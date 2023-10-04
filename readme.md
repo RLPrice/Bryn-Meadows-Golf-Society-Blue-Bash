@@ -1,10 +1,10 @@
 # **Bryn Meadows Blue Bash Golf Society**
 
-![Society Logo](./assets/images/bluebash.webp)
+![Society Logo](assets/readme-images/bluebash.jpg)
 
 Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusiasts dedicated to enjoying the game and fostering camaraderie. Our society is all about bringing together players of different skill levels who share a passion for golf and a desire to have fun on the course.
 
-<!--omit in Tableof Contents-->
+<!--omit in Table of Contents-->
 
 ## **Table Of Contents**
 
@@ -201,26 +201,37 @@ Maintaining visual consistency across the webpage ensures a unified and coherent
 ### **BluePrints**
 
 Home Page Computer
-![Home Page Computer](assets/images/Home-Page-Computer.jpg)
+![Home Page Computer](./assets/readme-images/Home-Page-Computer.jpg)
 
 Golf Course Page Computer
-![Golf Course Page Computer](assets/images/Golf-Course-Computer.jpg)
+![Golf Course Page Computer](./assets/readme-images/Golf-Course-Computer.jpg)
 
 Fixture Page Computer
-![Fixtures Computer](assets/images/Fixtures-Computer.jpg)
+![Fixtures Computer](./assets/readme-images/Fixtures-Computer.jpg)
 
-Home Page Tablet\
-![Wireframe Tab Home](assets/images/wireframes/Wireframe-Tab-Home.jpg)\
-Golf Course Page tablet\
-![Wireframe Tab Course](assets/images/wireframes/Wireframe-Tab-Course.jpg)\
-Fixtures Page Tablet\
-![Wireframe tab Fix](assets/images/wireframes/Wireframe-Tab-Fix.jpg)\
-Home Page Smartphone\
-![Wireframe SP Home](assets/images/wireframes/Wireframe-SP-Home.jpg)\
-Golf Course Page Smartphone\
-![Wireframe SP Course](assets/images/wireframes/Wireframe-SP-Course.jpg)\
-Fixtures Page Smartphone\
-![Wireframe SP Fix](assets/images/wireframes/Wireframe-SP-Fix.jpg)\
+Home Page Tablet
+
+![Wireframe Tab Home](./assets/readme-images/Ipad-Home.png)
+
+Golf Course Page tablet
+
+![Wireframe Tab Course](./assets/readme-images/Golf-Course-Ipad.png)
+
+Fixtures Page Tablet
+
+![Wireframe tab Fix](./assets/readme-images/Fixtures-Ipad.png)
+
+Home Page Smartphone
+
+![Wireframe SP Home](./assets/readme-images/home-phone.png)
+
+Golf Course Page Smartphone
+
+![Wireframe SP Course](./assets/readme-images/golf-course-phone.png)
+
+Fixtures Page Smartphone
+
+![Wireframe SP Fic](./assets/readme-images/fixtures-phone.png)
 
 ### **Design Distinctions**
 
@@ -228,7 +239,7 @@ Fixtures Page Smartphone\
 
 Photography and Images play a pivotal role in my web page's design. I incorporated a diverse range of photographs and images, carefully selected to align with my project's narrative and branding. These visuals go beyond aesthetics; they are instrumental in conveying my story to the audience and reinforcing my brand identity. The high quality and resolution of these images not only ensure a visually appealing presentation but also enhance user engagement. By integrating these visuals thoughtfully, i aim to create a captivating and immersive user experience that resonates with our project's core message and values.
 
-![Home Page Background](assets/images/Community-golf.jpg)
+![Home Page Background](./assets/readme-images/Community-golf.jpg)
 
 #### **Iconography**
 
@@ -238,7 +249,7 @@ Iconography is a fundamental component of my web page's design, serving to enhan
 
 My project's logo plays a pivotal role in establishing the brand identity and creating a lasting visual impression. The logo's design incorporates carefully selected colors and imagery that resonate with the essence of my project. Placed prominently within the web page, it serves as a cornerstone of our branding efforts, ensuring that users readily recognize and associate it with my project.
 
-![Logo](assets/images/bluebash.jpg)
+![Logo](assets/readme-images/bluebash.jpg)
 
 #### **Layout & Design Elements**
 
