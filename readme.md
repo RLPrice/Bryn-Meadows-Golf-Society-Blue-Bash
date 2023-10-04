@@ -49,6 +49,9 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
     - [**Automated Testing**](#automated-testing)
     - [**Issues and Resolutions**](#issues-and-resolutions)
     - [**Deployment**](#deployment)
+    - [\*\* How to run the Project Locally\*\*](#-how-to-run-the-project-locally)
+      - [**Clone the Repository**](#clone-the-repository)
+      - [**Download the Repository Manually**](#download-the-repository-manually)
 
 ## **Project Scope**
 
@@ -418,4 +421,38 @@ Smartphone Fixtures Page
 
 ### **Deployment**
 
-This proj
+This project has been successfully deployed on GitHub Pages. To deploy your project, follow these steps:
+
+1. Login to GitHub: Start by logging into your GitHub account.
+2. Select the Repository: Locate project repository from the list.
+3. Access Repository Settings: Within your repository, click on the "Settings" tab located amoung the sub-headings.
+4. Configure Pages: In the left-side menu, find and select "Pages" from the "Code and Automation" section.
+5. Choose Source: Under the "Source" heading, click the dropdown menu and select "main" as the source branch.
+6. Set Default Path: Ensure that the second dropdown menu remains at the default value, which is (/root)/
+7. Save Changes: Save your configuation settings.
+8. Deployment Confirmation: You will recieve a message indicating that your website id ready to be deployed.
+9. Refresh the Page: Refresh the page, and you will find a green sub-section at the top of the page with a link to your deployed site.
+10. visit the Deployed Site: Click in the link to access and view your live deployed website.
+
+### ** How to run the Project Locally**
+
+#### **Clone the Repository**
+
+1. Visit the GitHub Repository at oks-erm/sofing.
+2. Click on the "Code" drop-down menu.
+3. Select "HTTPS" from the "Clone" heading.
+4. Copy the provided link.
+5. Open your preferred Integrated Development Environment (IDE) such as VSCode, Atom, or Komodo.
+6. In a terminal, navigate to your desired directory and type git clone, then  paste the copied link.
+7. Execute the command, and a clone of the repository will be created on your local machine.
+
+#### **Download the Repository Manually**
+
+1. Visit the GitHub Repository at rlprice-bryn-meadows-gol-hjxkvm140k.
+2. Click on the "Code" drop-down menu.
+3. Select "Download ZIP."
+4. Download the ZIP file to your computer.
+5. Locate the ZIP file and extract its contents into the directory where you wish to store the repository.
+6. Open your chosen IDE (e.g., VSCode, Atom, Komodo).
+7. Navigate to the directory where you extracted the repository.
+8. You now have the entire project available offline on your machine.
