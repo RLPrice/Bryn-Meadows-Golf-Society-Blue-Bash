@@ -47,8 +47,8 @@ Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusia
     - [**Testing**](#testing)
       - [**User Story Testing**](#user-story-testing)
     - [**Automated Testing**](#automated-testing)
-    - [**W3C CSS Validator**](#w3c-css-validator)
     - [**Issues and Resolutions**](#issues-and-resolutions)
+    - [**Deployment**](#deployment)
 
 ## **Project Scope**
 
@@ -342,7 +342,7 @@ The webpage design will require a dedicated section that displays the tee time s
 
 ### **Automated Testing**
 
-1. **[W3 Markup Validation](https://validator.w3.org/) - HTML Validation**
+1. **W3C Markup Validation**
 
 index.html was run through validator. Three errors were identified.
 
@@ -362,11 +362,49 @@ fixtures.html was run through validator. Two errors were identified.
 
 Once errors had been corrected no further issues were identified.
 
-### **W3C CSS Validator**
+2. **W3C CSS Validator**
 
 style.css was put through a validator and no issues were found.
 
 ![style.css Test result](./assets/readme-images/style.css-result.jpg)
+
+3. **Google Lighthouse**
+
+Home Page Computer
+
+![Computer Homepage](./assets/readme-images/computer-homepage.png)
+
+Golf Course Computer
+
+![Computer Golf Course Page](./assets/readme-images/golf-course-computer.png)
+
+Fixtures Computer
+
+![Fixtures Page Computer](./assets/readme-images/fixtures-computer.png)
+
+Homepage Tablet
+
+![Tablet Homepage](./assets/readme-images/tablet-home.png)
+
+Golf Course Page Tablet
+
+![Tablet Golf Coursr Page](./assets/readme-images/tablet-golf.png)
+
+Fixtures Page Tablet
+
+![Tablet Fixtures Page](./assets/readme-images/tablet-fixture.png)
+
+Smartphone Homepage
+
+![Smartphone Homepage](./assets/readme-images/phone-home.png)
+
+Smartphone Golf course Page
+
+![Smartphone Golf Course Page](./assets/readme-images/phone-golf.png)
+
+Smartphone Fixtures Page
+
+![Smartphone Fixtures Page](./assets/readme-images/phone-fix.png)
 
 ### **Issues and Resolutions**
 
@@ -377,3 +415,7 @@ style.css was put through a validator and no issues were found.
 ![Heading Issue](./assets/readme-images/heading-issue.png)
 
 ![Heading Issue Fix](./assets/readme-images/heading-issue-fix.jpg)
+
+### **Deployment**
+
+This proj
